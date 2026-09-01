@@ -1,0 +1,14 @@
+# Dados SINTÉTICOS inspirados no International Social Survey Programme (ISSP), 2009
+# Pergunta: "É responsabilidade do governo reduzir as diferenças de renda entre
+# pessoas de alta e de baixa renda." Valores em % das respostas válidas (soma 100 por país).
+pais,Discordo totalmente,Discordo,Concordo,Concordo totalmente
+Espanha,2,8,45,45
+Itália,3,10,47,40
+França,3,12,50,35
+Japão,4,14,52,30
+África do Sul,6,16,45,33
+Suécia,6,20,46,28
+Reino Unido,7,22,48,23
+Austrália,9,27,45,19
+Dinamarca,10,28,44,18
+Estados Unidos,14,32,38,16
